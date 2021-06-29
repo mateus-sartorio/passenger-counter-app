@@ -19,6 +19,10 @@ h2 {
     margin-bottom: 10px;
 }
 
+p {
+    font-size: 30px;
+}
+
 button {
     border: none;
     padding-top: 10px;
